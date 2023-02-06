@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio3 : MonoBehaviour
+public class Ejercicio_3 : MonoBehaviour
 {
     public int Num;
 

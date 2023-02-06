@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio2 : MonoBehaviour
+public class Ejercicio_2 : MonoBehaviour
 {
     private int i = 1;
 
