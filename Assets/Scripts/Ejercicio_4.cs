@@ -9,10 +9,10 @@ public class Ejercicio_4 : MonoBehaviour
 
     /*void Start()
     {
-        while (leftEnd<=rightEnd)
+        while (% = leftEnd + rightEnd)
         {
-            Debug.Log();
-            leftEnd++;
+            Debug.Log(%);
+            %++;
         }
     }*/
 }
